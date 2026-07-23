@@ -9,8 +9,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![.github/workflows/ci.yml](https://github.com/animaios/animarouter/actions/workflows/ci.yml/badge.svg)](https://github.com/animaios/animarouter/actions/workflows/ci.yml)
 -->
-
+<!--
 <sub> a fork of [`MLuqmanBR/api-gateway`](https://github.com/MLuqmanBR/api-gateway) </sub> <br> <br>
+-->
 
 </div>
 
