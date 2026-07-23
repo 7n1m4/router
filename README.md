@@ -7,9 +7,8 @@
 <!--
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
--->
-
 [![.github/workflows/ci.yml](https://github.com/animaios/animarouter/actions/workflows/ci.yml/badge.svg)](https://github.com/animaios/animarouter/actions/workflows/ci.yml)
+-->
 
 <sub> Fork of [`MLuqmanBR/api-gateway`](https://github.com/MLuqmanBR/api-gateway) re-attached to [`tashfeenahmed/freellmapi`](https://github.com/tashfeenahmed/freellmapi) for better visibility. </sub> <br> <br>
 
