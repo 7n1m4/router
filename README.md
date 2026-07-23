@@ -441,6 +441,8 @@ Rules of thumb: **one account per provider**, **no reselling**, **no sharing you
 
 </details>
 
+<!--
+
 ## 🩹 Contributing
 
 <img width="256" height="384" alt="AnimAIOS mascot" src="https://github.com/user-attachments/assets/52efcf2a-6cf3-40ad-bb14-d2092c7b4f0e" />
@@ -506,6 +508,9 @@ PRs should include a test, keep the existing test suite green, and match the `.e
 
 Built on [MLuqmanBR/api-gateway](https://github.com/MLuqmanBR/api-gateway) (itself a fork of [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)). Maintained by [AnimAIOS project](https://github.com/animaios).
 
+
 ## License
 
 [MIT](./LICENSE) — © upstream contributors + AnimAIOS project.
+
+-->
