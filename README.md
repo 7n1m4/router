@@ -10,7 +10,7 @@
 [![.github/workflows/ci.yml](https://github.com/animaios/animarouter/actions/workflows/ci.yml/badge.svg)](https://github.com/animaios/animarouter/actions/workflows/ci.yml)
 -->
 
-<sub> Fork of [`MLuqmanBR/api-gateway`](https://github.com/MLuqmanBR/api-gateway) re-attached to [`tashfeenahmed/freellmapi`](https://github.com/tashfeenahmed/freellmapi) for better visibility. </sub> <br> <br>
+<sub> a fork of [`MLuqmanBR/api-gateway`](https://github.com/MLuqmanBR/api-gateway) </sub> <br> <br>
 
 </div>
 
